@@ -1,5 +1,4 @@
-Can't create, edit, or upload … Not enough storage. Get 30 GB of storage for ₹59.00 ₹15.00/month for 3 months.
----
+
 
 # FitPro Gym SQL Project
 
