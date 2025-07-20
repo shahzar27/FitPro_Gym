@@ -62,7 +62,7 @@ The following queries were created to solve specific business questions. Each qu
 3. List the **name** and **status** of active members over **25**.
 4. Get details of **visits** on a specific date (**2024-01-01**).
 5. List members with a **Quarterly membership** aged between **20 and 30**.
-6. 
+   
 
 Additional aggregations and grouping:
 6. Count total visits made by each member.
