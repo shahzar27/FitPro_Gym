@@ -1,4 +1,4 @@
-
+---
 
 # FitPro Gym SQL Project
 
@@ -111,7 +111,7 @@ If you have any questions or feedback, feel free to create an issue or reach out
 ## Contact Me
 
 📄 **[Resume](#)**  
-📧 **[Email](shahzar27@gmail.com)**  
-📞 **Phone**: 8178723373
+📧 **[Email](mailto:your.email@example.com)**  
+📞 **Phone**: +123-456-7890  
 
 --
